@@ -38,7 +38,8 @@
       "endDate": "2024-09-30",
       "summary": "",
       
-      "responsibilities": ["Design and implement advanced systems based on complex research papers."
+      "responsibilities": [
+        "Design and implement advanced systems based on complex research papers."
       ,"Set up and manage Docker infrastructure for seamless integration of Apache Kylin with Apache Superset to enhance data analytics capabilities.",
       "Contribute to research papers by writing, structuring, conducting complex experiments, and implementing necessary systems for research support."
       ],
@@ -129,10 +130,10 @@
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "AWS Cloud Practitioner Essentials",
+      "date": "2022-08-11",
+      "issuer": "AWS",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/F32BDDA4KJB6"
     }
   ],
   "skills": [
@@ -284,46 +285,44 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
+      "name": "ShopNow",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "An online store built with React JS",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Built with React, Chakra UI & Firebase"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://shopnow-commerce.netlify.app/",
+      "github": "https://github.com/Merzouk-Ilyes/Shopnow"
     },
     {
-      "name": "Task Manager",
+      "name": "Hulu Clone",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "A real time app that shows the trending movies & series from different categories",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Built with Next JS, Tailwind CSS & TMDB API"
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "https://trending-movies-tmdb.vercel.app/",
+      "github":"https://github.com/Merzouk-Ilyes/hulu-clone"
     },
     {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "name": "Treva",
+      "isActive": true,
+      "description": "Job searching platform",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Built with React, SASS & Framer Motion"
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://treva.netlify.app/",
+      "github": "https://github.com/Merzouk-Ilyes/treva"
+    },
+    {
+      "name": "Rented",
+      "isActive": false,
+      "description": "RENTED is a web app created to be a link between people searching for appartements to rent and hosts.",
+      "highlights": [
+        "Built with React, Node.js, Tailwind CSS, SASS & Chakra UI "
+      ],
+      "url":"",
+      "github": "https://github.com/Merzouk-Ilyes/Projet-2CS-Front"
     }
   ]
 }
